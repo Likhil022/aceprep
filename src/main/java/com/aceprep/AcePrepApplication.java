@@ -1,4 +1,4 @@
-package com.ap.aceprep;
+package com.aceprep;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
